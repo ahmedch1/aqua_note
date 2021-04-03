@@ -16,10 +16,14 @@ class GenusController extends Controller
      */
     public function showAction($genusName)
     {
-
+        $funFact = 'Octopuses can change the color of their body in just *three-tenths* of a second!';
+        $funFact = $this->get('markdown.parser')
+            ->transform($funFact);
         return $this->render('genus/show.html.twig',
-            ['name' => $genusName]);
+            ['name' => $genusName,
+                'funFact' => $funFact,]);
     }
+
     /**
      * @Route("/genus/{genusName}/notes",name="genus_show_notes")
      * @Method("GET")
@@ -31,8 +35,8 @@ class GenusController extends Controller
             ['id' => 2, 'username' => 'AquaWeaver', 'avatarUri' => '/images/ryan.jpeg', 'note' => 'I counted 8 legs... as they wrapped around me', 'date' => 'Dec. 1, 2015'],
             ['id' => 3, 'username' => 'AquaPelham', 'avatarUri' => '/images/leanna.jpeg', 'note' => 'Inked!', 'date' => 'Aug. 20, 2015'],
         ];
-        $data=[
-          'notes'=>$notes
+        $data = [
+            'notes' => $notes
         ];
         return new JsonResponse($data);
     }

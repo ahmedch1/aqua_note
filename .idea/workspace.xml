@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def19dde-2856-447a-a538-a347f4005538" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/main/homepage.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppBundle/Controller/MainController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,8 @@
       <workItem from="1617289368886" duration="104000" />
       <workItem from="1617356598306" duration="9378000" />
       <workItem from="1617435224099" duration="11000" />
-      <workItem from="1617435350361" duration="11713000" />
+      <workItem from="1617435350361" duration="12045000" />
+      <workItem from="1617473827230" duration="3703000" />
     </task>
     <servers />
   </component>
@@ -120,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2519" y="166" key="FileChooserDialogImpl" timestamp="1617435233401">
@@ -138,6 +141,10 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2468" y="116" key="Github.UntrackedFilesDialog/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617435828758" />
+    <state x="2380" y="140" key="NewPhpClassDialog" timestamp="1617477317260">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2380" y="140" key="NewPhpClassDialog/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617477317260" />
     <state x="2575" y="334" key="NewPhpFileDialog" timestamp="1617272154153">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
@@ -146,10 +153,10 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2253" y="67" key="SettingsEditor/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617356772824" />
-    <state x="2454" y="155" width="580" height="534" key="find.popup" timestamp="1617437462234">
+    <state x="2454" y="155" width="580" height="534" key="find.popup" timestamp="1617476461950">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2454" y="155" width="580" height="534" key="find.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617437462234" />
+    <state x="2454" y="155" width="580" height="534" key="find.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617476461950" />
     <state x="2401" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1617289453842">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>

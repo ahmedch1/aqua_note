@@ -76,6 +76,8 @@ doctrine_cache:
   providers:
     my_markdown_cache:
       type: file_system
+      file_system:
+            directory: /tmp/doctrine_cache
 sensio_framework_extra:
   router:
     annotations: false

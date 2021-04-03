@@ -1,3 +1,16 @@
+#Quick Start
+
+Run composer update in the directory , keep default values when asked for
+
+After that run php bin/console server:run
+
+
+
+
+
+
+
+
 Symfony Standard Edition
 ========================
 

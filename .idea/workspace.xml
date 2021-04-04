@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="def19dde-2856-447a-a538-a347f4005538" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp-clean/htdocs/encadrement/rihab/ecole1/ecole/code" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -104,7 +103,9 @@
       <workItem from="1617356598306" duration="9378000" />
       <workItem from="1617435224099" duration="11000" />
       <workItem from="1617435350361" duration="12045000" />
-      <workItem from="1617473827230" duration="6029000" />
+      <workItem from="1617473827230" duration="6363000" />
+      <workItem from="1617555984304" duration="414000" />
+      <workItem from="1617566659279" duration="2037000" />
     </task>
     <servers />
   </component>
@@ -124,14 +125,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2549" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1617482228163">
+    <state x="2549" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1617567982807">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2549" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617482228163" />
-    <state x="2519" y="166" key="FileChooserDialogImpl" timestamp="1617435233401">
+    <state x="2549" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617567982807" />
+    <state x="2519" y="166" key="FileChooserDialogImpl" timestamp="1617556405848">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2519" y="166" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617435233401" />
+    <state x="2519" y="166" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617556405848" />
     <state x="2569" y="338" key="Github.CreateGistDialog" timestamp="1617435745600">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>

@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def19dde-2856-447a-a538-a347f4005538" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/genus/list.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,7 @@
       <workItem from="1617473827230" duration="6363000" />
       <workItem from="1617555984304" duration="414000" />
       <workItem from="1617566659279" duration="2388000" />
-      <workItem from="1617833990794" duration="4153000" />
+      <workItem from="1617833990794" duration="6181000" />
     </task>
     <servers />
   </component>
@@ -164,10 +165,10 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2253" y="67" key="SettingsEditor/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617356772824" />
-    <state x="2454" y="155" width="580" height="534" key="find.popup" timestamp="1617476461950">
+    <state x="2454" y="155" width="580" height="534" key="find.popup" timestamp="1617840462920">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2454" y="155" width="580" height="534" key="find.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617476461950" />
+    <state x="2454" y="155" width="580" height="534" key="find.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617840462920" />
     <state x="2401" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1617289453842">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>

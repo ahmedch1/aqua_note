@@ -10,11 +10,13 @@
         </thead>
         <tbody>
         {% for genus in genuses %}
-        <tr>
-            <td>{{ genus.name }}</td>
-            <td>{{ genus.speciesCount }}</td>
-            <td>{{ genus.updatedAt | date('Y-m-d') }}</td>
-        </tr>
+            <tr>
+                <td>
+                    <a href="{{ path('genus_show', {'genusName': genus.name}) }}">
+                        {{ genus.name }}
+                    </a>
+                </td>
+            </tr>
         {% endfor %}
         </tbody>
     </table>

@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def19dde-2856-447a-a538-a347f4005538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Resources/views/genus/list.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/list.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/list.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/xampp-clean/htdocs/encadrement/rihab/ecole1/ecole/code" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -113,7 +113,7 @@
       <workItem from="1617473827230" duration="6363000" />
       <workItem from="1617555984304" duration="414000" />
       <workItem from="1617566659279" duration="2388000" />
-      <workItem from="1617833990794" duration="6181000" />
+      <workItem from="1617833990794" duration="12485000" />
     </task>
     <servers />
   </component>
@@ -161,14 +161,18 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2575" y="334" key="NewPhpFileDialog/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617272154153" />
-    <state x="2253" y="67" key="SettingsEditor" timestamp="1617356772824">
+    <state x="2253" y="67" key="SettingsEditor" timestamp="1617843822982">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2253" y="67" key="SettingsEditor/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617356772824" />
+    <state x="2253" y="67" key="SettingsEditor/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617843822982" />
     <state x="2454" y="155" width="580" height="534" key="find.popup" timestamp="1617840462920">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2454" y="155" width="580" height="534" key="find.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617840462920" />
+    <state x="2406" y="188" key="run.anything.popup" timestamp="1617844636516">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2406" y="188" key="run.anything.popup/0.0.1920.1080/1920.0.1536.864@1920.0.1536.864" timestamp="1617844636516" />
     <state x="2401" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1617289453842">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
